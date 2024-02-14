@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![arcanava's 42 stats](https://badge.mediaplus.ma/darkblue/arcanava?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![arcanava's 42 stats](https://badge.mediaplus.ma/darkblue/arcanava?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/arcanava)
