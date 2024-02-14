@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arzelcm&layout=compact&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arzelcm&layout=compact&theme=github_dark)](https://github.com/arzelcm/)
 
 [![arcanava's 42 stats](https://badge.mediaplus.ma/darkgray/arcanava?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/arcanava)
 
