@@ -1,6 +1,6 @@
-### Hi there 👋
+<!--### Hi there 👋
 
-<!--
+
 **arzelcm/arzelcm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![arcanava's 42 stats](https://badge.mediaplus.ma/landscapes/arcanava)](https://github.com/oakoudad/badge42)
+[![arcanava's 42 stats](https://badge.mediaplus.ma/darkblue/arcanava?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
