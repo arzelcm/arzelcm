@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 # [Libft (125/100)](https://github.com/arzelcm/Libft)
 # Born2beRoot (125/100)
+# [ft_printf (not graded yet)](https://github.com/arzelcm/ft_printf)
